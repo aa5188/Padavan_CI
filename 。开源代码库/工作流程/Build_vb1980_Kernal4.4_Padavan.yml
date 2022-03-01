@@ -31,7 +31,7 @@ on:
         - WR1200JS
         - NEWIFI
         - XY-C1
-        default: ZTE-E8820S
+        default: RM2100
       plugins:
         description: 'json format string of include configs'
         required: true
