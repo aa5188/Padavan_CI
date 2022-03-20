@@ -1,4 +1,4 @@
-name: Build RM2100 kvr from vb1980 repo
+name: Build RM20100 kvr from vb1980 repo
 
 on:
   workflow_dispatch:
